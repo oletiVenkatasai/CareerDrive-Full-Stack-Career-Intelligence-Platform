@@ -1,5 +1,7 @@
 # 🚀 CareerDrive — Full Stack Career Intelligence Platform
 
+🌐 **Live Demo:** [career-drive-full-stack-career-inte.vercel.app](https://career-drive-full-stack-career-inte.vercel.app)
+
 A full-stack **MERN** career intelligence platform with role-based dashboards for **Students**, **Recruiters**, and **Admins**. Features skill gap analysis, career roadmaps, job matching, and a full admin control panel — all in a modern, responsive UI.
 
 ---
