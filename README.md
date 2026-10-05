@@ -1,6 +1,6 @@
 # 🚀 CareerDrive — Full Stack Career Intelligence Platform
 
-A full-stack **MERN** career intelligence platform with role-based dashboards for **Students**, **Recruiters**, and **Admins**. Features AI-powered skill gap analysis, career roadmaps, job matching, and a full admin control panel — all in a modern, responsive UI.
+A full-stack **MERN** career intelligence platform with role-based dashboards for **Students**, **Recruiters**, and **Admins**. Features skill gap analysis, career roadmaps, job matching, and a full admin control panel — all in a modern, responsive UI.
 
 ---
 
@@ -188,7 +188,7 @@ Run the dev command from the project root to start both servers at the same time
 | :--- | :--- | :--- | :--- |
 | GET | /api/career/profile | Student | Career profile and match scores |
 | GET | /api/career/skill-gaps | Student | Personalized skill gap analysis |
-| GET | /api/career/recommended-jobs | Student | AI-powered job recommendations |
+| GET | /api/career/recommended-jobs | Student | Job recommendations |
 | POST | /api/career/simulate | Student | Simulate skill additions |
 | GET | /api/career/roadmap | Student | Personalized career roadmap |
 | GET | /api/career/opportunity-impact | Student | Opportunity impact analysis |
